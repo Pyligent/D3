@@ -39,6 +39,13 @@ While the ticks on the axes allow us to infer approximate values for each circle
 
 ![8-tooltip](Images/8-tooltip.gif)
 
+#### 3. Responsive Action
+
+The data visualization will be changed based on the windows size changed.   
+
+![9-Responsive](img/9-responsive-d3.gif)
+
+
 * Reference:  [David Gotz's example](https://bl.ocks.org/davegotz/bd54b56723c154d25eedde6504d30ad7)
 
 - - -
