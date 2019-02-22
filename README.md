@@ -1,5 +1,6 @@
-# Data Journalism and D3  
-##### [link](https://pyligent.github.io/D3_DataViz/)
+# Data Journalism and D3   
+
+### [Data Visualization link](https://pyligent.github.io/D3_DataViz/)
 
 ![Newsroom](https://media.giphy.com/media/v18Vgxabu8pi0/giphy.gif)
 
